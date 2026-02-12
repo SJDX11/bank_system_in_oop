@@ -1,0 +1,64 @@
+﻿  main.cpp
+E:\Users\sa2oo\source\repos\bank system\bank system\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsUser.h(354,11): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'main.cpp')
+      E:\Users\sa2oo\source\repos\bank system\bank system\clsUser.h(23,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsUser.h(319,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsInputValidate.h(98,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsInputValidate.h(102,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsBankClient.h(175,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'main.cpp')
+      E:\Users\sa2oo\source\repos\bank system\bank system\clsBankClient.h(141,11):
+      see declaration of 'clsBankClient::stTransferRecord'
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsBankClient.h(397,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsDeleteClientScreen.h(44,42): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsTotalBalancesScreen.h(52,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsDeleteUserScreen.h(39,38): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsUpdateCurrencyScreen.h(60,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsCryCalculetScreen.h(29,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Users\sa2oo\source\repos\bank system\bank system\clsLoginScreen.h(45,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+E:\Users\sa2oo\source\repos\bank system\bank system\clsBankClient.h(359,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\Users\sa2oo\source\repos\bank system\bank system\clsBankClient.h(273,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+E:\Users\sa2oo\source\repos\bank system\bank system\clsUser.h(285,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  bank system.vcxproj -> E:\Users\sa2oo\source\repos\bank system\x64\Debug\bank system.exe
